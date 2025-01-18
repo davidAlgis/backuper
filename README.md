@@ -1,6 +1,8 @@
 # Backuper
 
 A simple and efficient tool to manage automatic backups for your files and folders.
+
+![](assets/backuper_screen-18-01-25.jpg)
 <!-- 
 ## Installation
 
