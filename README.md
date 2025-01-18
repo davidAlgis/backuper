@@ -18,8 +18,8 @@ A simple and efficient tool to manage automatic backups for your files and folde
 ## Features
 
 - **Backup Management**: Easily create and manage backup pairs of input and destination folders.
-- **Automated Reminders**: Get notified when it's time to back up files, ensuring you stay up-to-date.
 - **Progress Tracking**: View real-time progress of files being backed up, including estimated time remaining.
+- **Automatic Backup Checks**: The application can be minimized to the system tray and automatically reminds you to back up your files every 3 days to ensure your data stays safe.
 
 ## Issues
 
